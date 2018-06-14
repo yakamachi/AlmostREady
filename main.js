@@ -7,6 +7,8 @@ const { app, BrowserWindow, Menu, ipcMain, shell } = electron;
 let mainWindow;
 let lnWindow;
 
+process.env.NODE_env = 'production';
+
 var check = false;
 
 var file, exit, print, alang, lmenu;
@@ -37,7 +39,7 @@ var languagepack = {
         'next': 'Next',
         'hpage': 'Home page',
         'sound': 'Pronunce',
-        'linfo': 'About Language',
+        'linfo': 'About <br/> Language',
         'file': 'File',
         'exit': 'Exit',
         'print': 'Print'
@@ -48,8 +50,8 @@ var languagepack = {
         'prev': 'Précédent',
         'next': 'Prochain',
         'hpage': 'Page d\'accueil',
-        'sound': 'Prononciation',
-        'linfo': 'Sur la langue',
+        'sound': 'Pronon-</br>ciation',
+        'linfo': 'Sur la <br/> langue',
         'file': 'Fichier',
         'exit': 'Sortir',
         'print': 'Imprimer'
@@ -61,7 +63,7 @@ var languagepack = {
         'next': 'Nächstes',
         'hpage': 'Startseite',
         'sound': 'Sussprache',
-        'linfo': 'Über Sprache',
+        'linfo': 'Über <br/> Sprache',
         'file': 'Datei',
         'exit': 'Beenden',
         'print': 'Drucken'
@@ -308,6 +310,10 @@ function buildMenu() {
     Menu.setApplicationMenu(mainMenu);
 }
 
+function cut(str, cutStart, cutEnd){
+    return str.substr(0, cutStart) + str.substr(cutEnd+1)
+}
+
 function loadLanguage(lang) {
     if (lang === 'polish') {
         lmenu = languagepack.polish.lmenu;
@@ -325,6 +331,7 @@ function loadLanguage(lang) {
         print = languagepack.english.print;
         exit = languagepack.english.exit;
         alang = languagepack.english.linfo;
+        alang = cut(alang, 5, 10)
         if(check){
             mainWindow.webContents.send('lang', languagepack.english);
         }
@@ -335,6 +342,7 @@ function loadLanguage(lang) {
         print = languagepack.french.print;
         exit = languagepack.french.exit;
         alang = languagepack.french.linfo;
+        alang = cut(alang, 6, 11)
         if(check){
             mainWindow.webContents.send('lang', languagepack.french);
         }
@@ -345,6 +353,7 @@ function loadLanguage(lang) {
         print = languagepack.german.print;
         exit = languagepack.german.exit;
         alang = languagepack.german.linfo;
+        alang = cut(alang, 4,9)
         if(check){
             mainWindow.webContents.send('lang', languagepack.german);
         }
