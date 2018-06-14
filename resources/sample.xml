@@ -4,7 +4,9 @@
   xmlns:xsd="http://www.w3.org/2001/XMLSchema" lang="pl-eng">
   <language>
     <full-name>Polish</full-name>
-    <about>Krótka notka o języku</about>
+    <about>Język naturalny należący do grupy języków zachodniosłowiańskich 
+    (do której należą również czeski, słowacki, kaszubski, dolnołużycki, górnołużycki i wymarły połabski),
+    stanowiącej część rodziny języków indoeuropejskich.</about>
     <alphabet>AĄBCĆDEĘFGHIJKLŁMNŃOÓPRSŚTUWYZŹŻ</alphabet>
     <category>
       <animals>Zwierzęta</animals>
@@ -15,80 +17,2729 @@
     </category>
   </language>
   <entries>
-    <entry>
-      <id>frequent</id>
-      <pfs>adj</pfs>
-      <category>Sport</category>
-      <translated>
-        <word>częsty</word>
-        <def>Tutaj definicja sobie jest</def>
-        <sentence>On często odwiedza ten klub, jest tu w prawie każdy weekend.</sentence>
-      </translated>
-      <synomym>common</synomym>
-      <def>Tutaj definicja sobie jest</def>
-      <sentence>He frequents this club, he's here almost every weekend.</sentence>
-      <sound></sound>
-      <img></img>
-    </entry>
-    <entry>
-      <id>common</id>
-      <pfs>adj</pfs>
-      <category>Sport</category>
-      <translated>
-        <word>powszechny</word>
-        <def>Tutaj definicja sobie jest</def>
-        <sentence>To jest powszechne przekonanie.</sentence>
-      </translated>
-      <synomym>frequent</synomym>
-      <def>Tutaj definicja sobie jest</def>
-      <sentence>It's a common belief.</sentence>
-      <sound></sound>
-      <img></img>
-    </entry>
-    <entry>
-      <id>shop</id>
-      <pfs>noun</pfs>
-      <category>Warzywa</category>
-      <translated>
-        <word>sklep</word>
-        <def>Tutaj definicja sobie jest</def>
-        <sentence>Ona wyszła do sklepu.</sentence>
-      </translated>
-      <synomym>boutique</synomym>
-      <def>Tutaj definicja sobie jest</def>
-      <sentence>She went out to the shop.</sentence>
-      <sound></sound>
-      <img></img>
-    </entry>
-    <entry>
-      <id>boutique</id>
-      <pfs>noun</pfs>
-      <category>Technologia</category>
-      <translated>
-        <word>butik</word>
-        <def>Tutaj definicja sobie jest</def>
-        <sentence>Tata otwiera butik w Londynie.</sentence>
-      </translated>
-      <synomym>shop</synomym>
-      <def>Tutaj definicja sobie jest</def>
-      <sentence>Dad is opening a boutique in London.</sentence>
-      <sound>resources/p.ogg</sound>
-      <img>resources/kotek.jpg</img>
-    </entry>
-    <entry>
-      <id>banana</id>
-      <pfs>noun</pfs>
-      <category>-</category>
-      <translated>
-        <word>banan</word>
-        <def>Tutaj definicja sobie jest</def>
-        <sentence>Mitek robi dobre koktajle bananowe.</sentence>
-      </translated>
-      <synomym>-</synomym>
-      <def>Tutaj definicja sobie jest</def>
-      <sentence>Mitek makes good banana shakes.</sentence>
-      <sound></sound>
-      <img></img>
-    </entry>
+<entry>
+<id>heavy</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>ciężki</word>
+<def>
+Odnosi się do wagi, subiektywne określenie dużego ciężaru.
+</def>
+<sentence>ulewa</sentence>
+</translated>
+<synomym>-</synomym>
+<def> subjectively determined weight</def>
+<sentence>heavy rain</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>screen</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>Ekran</word>
+<def>Służy do wyświetlania treści.</def>
+<sentence>Ekran telefonu</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Made for displaying things</def>
+<sentence>Phone Screen</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>backpack</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>plecak</word>
+<def>Służy do przenoszenia rzeczy na plecach.</def>
+<sentence>plecak do noszenia aparatu</sentence>
+</translated>
+<synomym>-</synomym>
+<def> is used for carrying stuff.</def>
+<sentence>backpack for carrying the camera</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>best</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>najlepszy</word>
+<def>Coś co jest ponad innymi np. jakością.</def>
+<sentence>Najlepszy przyjaciel.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Something what is better then others.</def>
+<sentence>Best friend</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>computer game</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>gra komputerowa</word>
+<def>
+Sposób na spędzanie wolnego czasu, odpala się ją na komputerze.
+</def>
+<sentence>gra komputerowa o śmiesznych pingwinach</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Game that you can play on your PC or console.</def>
+<sentence> a computer game about funny penguins</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>glass</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>szklanka</word>
+<def>
+Coś zrobionego ze szkła do krótkoterminowego przechowywania napoju.
+</def>
+<sentence>Szklanka do połowy pusta.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Made of glass, made to drink from it</def>
+<sentence> half-empty glass</sentence>
+<sound>resources/glass.wav</sound>
+<img>resources/glass.jpg</img>
+</entry>
+<entry>
+<id>minesweeper</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>Trałowiec</word>
+<def>Typ okrętu wojennego. </def>
+<sentence>trałowiec wykrył dwie miny</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Type of warship</def>
+<sentence> the minesweeper detected two mines</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>newspaper</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>gazeta</word>
+<def>Nadrukowane na papierze informacje ze świata.</def>
+<sentence>gazety to przeszłość!</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Piece of paper with informations from the world</def>
+<sentence> newspapers is a thing of the past!</sentence>
+<sound/>
+<img>resources/newspapers.jpg</img>
+</entry>
+<entry>
+<id>pony</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>kucyk</word>
+<def>Mały ziwerzak, koń któremu w życiu nie wyszło. </def>
+<sentence>kucyk Andrzej ma problem</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Little horse</def>
+<sentence> Andrzej's pony has a problem</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>printer</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>Printer</word>
+<def>Typ urządzenia, służy do drukowania.</def>
+<sentence>drukarka HP jest najlepsza</sentence>
+</translated>
+<synomym>-</synomym>
+<def>device for printing</def>
+<sentence> the HP printer is the best</sentence>
+<sound/>
+<img>resources/printer.jpg</img>
+</entry>
+<entry>
+<id>worst</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>najgorszy</word>
+<def>
+Coś co jest znacząco odstające negatywnie od innych.
+</def>
+<sentence>Najgorszy dzień mojego życia.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Something what is standing-off from the rest</def>
+<sentence> the worst day of my life</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>aeroplane</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>samolot</word>
+<def>
+samolot, który ma stałe skrzydło i jest napędzany przez śmigła
+</def>
+<sentence>
+Niektóre obszary są dostępne tylko pieszo lub samolotem.
+</sentence>
+</translated>
+<synomym>airplane</synomym>
+<def>
+an aircraft that has a fixed wing and is powered by propellers or jets
+</def>
+<sentence>
+Some areas are accessible only on foot or by aeroplane.
+</sentence>
+<sound>resources/aeroplane.wav</sound>
+<img>resources/aeroplane.jpg</img>
+</entry>
+<entry>
+<id>aircraft carrier</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>Lotniskowiec</word>
+<def>Typ okrętu wojennego.</def>
+<sentence>z lotniskowca wystartowały dwa F16</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Type of warship</def>
+<sentence> two F16 took off from the aircraft carrier</sentence>
+<sound/>
+<img>resources/carrier.jpg</img>
+</entry>
+<entry>
+<id>airplane</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>samolot</word>
+<def>
+samolot, który ma stałe skrzydło i jest napędzany przez śmigła
+</def>
+<sentence/>
+</translated>
+<synomym>powiedziała</synomym>
+<def/>
+<sentence>że mały czerwony samolot powiedział coś do mnie</sentence>
+<sound>gdy szedł obok."</sound>
+<img>aeroplane</img>
+</entry>
+<entry>
+<id>amber</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>bursztyn</word>
+<def>
+twarde żółtawe do brązowawo przezroczystej żywicy kopalnej; używane do biżuterii
+</def>
+<sentence>
+Bałtowie utworzyli szlaki handlowe do Rzymu i Bizancjum, handlując bursztynem lokalnym za metale szlachetne.
+</sentence>
+</translated>
+<synomym>succinite</synomym>
+<def>
+a hard yellowish to brownish translucent fossil resin; used for jewelry
+</def>
+<sentence>
+The Balts established trade routes to Rome and Byzantium, trading local amber for precious metals.
+</sentence>
+<sound>resources/amber.wav</sound>
+<img>resources/amber.jpg</img>
+</entry>
+<entry>
+<id>apartment</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>apartament</word>
+<def>zestaw pokoi zwykle na jednym piętrze domu</def>
+<sentence>
+Przydzielony misji USA do Organizacji Narodów Zjednoczonych, Snowden otrzymał paszport dyplomatyczny i apartament z czterema sypialniami w pobliżu Jeziora Genewskiego.
+</sentence>
+</translated>
+<synomym>flat</synomym>
+<def>a suite of rooms usually on one floor of a house</def>
+<sentence>
+Assigned to the U.S. mission to the United Nations, Snowden was given a diplomatic passport and a four-bedroom apartment near Lake Geneva.
+</sentence>
+<sound>resources/apartment.wav</sound>
+<img>resources/apartment.jpg</img>
+</entry>
+<entry>
+<id>apple</id>
+<pfs>noun</pfs>
+<category>Owoce</category>
+<translated>
+<word>jabłko</word>
+<def>jadalny owoc drzew z rodzaju jabłoń Malus</def>
+<sentence>Jabłka są moimi ulubionymi owocami.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>
+edible fruit produced by an apple tree (Malus pumila)
+</def>
+<sentence>Apples are my favourite fruits.</sentence>
+<sound>resources/apple.wav</sound>
+<img>resources/apple.jpg</img>
+</entry>
+<entry>
+<id>aubergine</id>
+<pfs>noun</pfs>
+<category>Warzywa</category>
+<translated>
+<word>bakłażan</word>
+<def>
+jajowate warzywo o błyszczącej skórze, zwykle ciemnopurpurowe, ale czasami białe lub żółte
+</def>
+<sentence>Inna wariacja uwzględnia bakłażany.</sentence>
+</translated>
+<synomym>eggplant</synomym>
+<def>
+egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow
+</def>
+<sentence>Another variation includes aubergine.</sentence>
+<sound>resources/aubergine.wav</sound>
+<img>resources/aubergine.jpg</img>
+</entry>
+<entry>
+<id>automn</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>jesień</word>
+<def>
+Tradycyjnie trzecia z czterech pór roku, kiedy drzewa liściaste tracą liście
+</def>
+<sentence>Jesień to moja ulubiona pora roku.</sentence>
+</translated>
+<synomym>fall</synomym>
+<def>
+Traditionally the third of the four seasons, when deciduoustrees lose their leaves
+</def>
+<sentence>Automn is my favorite season</sentence>
+<sound>resources/automn.wav</sound>
+<img>resources/automn.jpg</img>
+</entry>
+<entry>
+<id>ball</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>piłka</word>
+<def>coś do gry</def>
+<sentence>Piłka jest jedna a bramki są dwie</sentence>
+</translated>
+<synomym>-</synomym>
+<def>something to play</def>
+<sentence>The ball is one and the goals are two</sentence>
+<sound>resources/piłka.wav</sound>
+<img>resources/ball.jpg</img>
+</entry>
+<entry>
+<id>banana</id>
+<pfs>noun</pfs>
+<category>Owoce</category>
+<translated>
+<word>banan</word>
+<def>żółte owoce, jedzą je szympansy</def>
+<sentence>Sok bananowy jest bardzo smaczny</sentence>
+</translated>
+<synomym>-</synomym>
+<def>yellow fruits, chimpanzees eat them</def>
+<sentence>Banana juice is very tasty</sentence>
+<sound/>
+<img>resources/banan.jpg</img>
+</entry>
+<entry>
+<id>baseball</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>baseball</word>
+<def>
+gra w piłkę z kijem i piłką pomiędzy dwiema drużynami złożonymi z 9 graczy; zespoły zmieniają się w ataku, próbując zdobyć wynik
+</def>
+<sentence>
+Baseball jest obecnie najpopularniejszym sportem widowiskowym w kraju.
+</sentence>
+</translated>
+<synomym>rounders</synomym>
+<def>
+a ball game played with a bat and ball between two teams of 9 players; teams take turns at bat trying to score run
+</def>
+<sentence>
+Baseball is currently the most popular spectator sport in the country.
+</sentence>
+<sound>resources/baseball.wav</sound>
+<img>resources/baseball.jpg</img>
+</entry>
+<entry>
+<id>beautiful</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>piękny</word>
+<def>miłe dla oka lub uszu</def>
+<sentence>Ich analiza wskazywała, że </sentence>
+</translated>
+<synomym>pretty</synomym>
+<def>pleasing to the eye or the ear</def>
+<sentence>Their analysis was also that </sentence>
+<sound>resources/beautiful.wav</sound>
+<img>resources/beautiful.jpg</img>
+</entry>
+<entry>
+<id>biscuit</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>herbatnik</word>
+<def>każdy z różnych małych płaskich słodkich ciastek</def>
+<sentence>
+Wodorowęglan amonu stosuje się w produkcji herbatników digestive.
+</sentence>
+</translated>
+<synomym>cookie</synomym>
+<def>any of various small flat sweet cakes</def>
+<sentence>
+Ammonium bicarbonate is used in digestive biscuit manufacture.
+</sentence>
+<sound>resources/biscuit.wav</sound>
+<img>resources/biscuit.jpg</img>
+</entry>
+<entry>
+<id>blinker</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>migacz</word>
+<def>
+migające światło pojazdu mechanicznego, wskazujące kierunek, w którym pojazd ma się obrócić
+</def>
+<sentence>
+Po drodze przecinają się dwie drogi powiatowe na światłach migacza.
+</sentence>
+</translated>
+<synomym>indicator</synomym>
+<def>
+a blinking light on a motor vehicle that indicates the direction in which the vehicle is about to turn
+</def>
+<sentence>
+Along the way it intersects two county roads at blinker lights.
+</sentence>
+<sound>resources/blinker.wav</sound>
+<img>resources/blinker.jpg</img>
+</entry>
+<entry>
+<id>blossom</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kwiat</word>
+<def>
+Kolorowa, rzucająca się w oczy struktura związana z okrytozalążkowymi, często pachnąca i przyciągająca różne owady
+</def>
+<sentence>Kupiłem żonie bukiet kwiatów</sentence>
+</translated>
+<synomym>flower</synomym>
+<def>
+A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects
+</def>
+<sentence>I bought my wife a bunch of flowers.</sentence>
+<sound>resources/blossom.wav</sound>
+<img>resources/blossom.jpg</img>
+</entry>
+<entry>
+<id>body</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>ciało</word>
+<def>To czym poruszasz, czym czujesz świat zewnętrzny.</def>
+<sentence>boskie ciało</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Your material parts.</def>
+<sentence> divine body</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>bonnet</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>pokrywa</word>
+<def>
+pokrycie ochronne składające się z metalowej części, która zakrywa silnik
+</def>
+<sentence>
+Najbardziej widoczna była nowa kratka, która została teraz włączona do pokrywy silnika.
+</sentence>
+</translated>
+<synomym>hood</synomym>
+<def>
+protective covering consisting of a metal part that covers the engine
+</def>
+<sentence>
+Most obvious was the new grille that was now incorporated in the bonnet.
+</sentence>
+<sound>resources/bonnet.wav</sound>
+<img>resources/bonnet.jpg</img>
+</entry>
+<entry>
+<id>book</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>książka</word>
+<def>można ją czytać</def>
+<sentence>Czytanie książek poszerza wyobrażnie</sentence>
+</translated>
+<synomym>-</synomym>
+<def>you can read it</def>
+<sentence>Reading books broadens the imagination</sentence>
+<sound>resources/książka.wav</sound>
+<img>resources/book.jpg</img>
+</entry>
+<entry>
+<id>boot</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>bagażnik</word>
+<def>
+przedział w samochodzie, który przenosi bagaż lub zakupy lub narzędzia
+</def>
+<sentence>
+Bogue zostaje wtedy śmiertelnie zastrzelony przez Cullena, sięgając po ukrytą broń w bagażniku.
+</sentence>
+</translated>
+<synomym>trunk</synomym>
+<def>
+compartment in an automobile that carries luggage or shopping or tools
+</def>
+<sentence>
+Bogue is then fatally shot by Cullen while reaching for a hidden gun in his boot.
+</sentence>
+<sound>resources/boot.wav</sound>
+<img>resources/boot.jpg</img>
+</entry>
+<entry>
+<id>braces</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>szelki</word>
+<def>elastyczne paski podtrzymujące spodnie</def>
+<sentence>... </sentence>
+</translated>
+<synomym>z tweedową marynarką</synomym>
+<def>czerwoną lub niebieską koszulą w paski</def>
+<sentence>czerwoną lub niebieską muszką</sentence>
+<sound>
+czarnymi lub szarymi spodniami z czerwonymi lub niebieskimi szelkami i czarnymi butami."
+</sound>
+<img>suspenders</img>
+</entry>
+<entry>
+<id>candy</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>słodycz</word>
+<def>
+Jadalne wyroby cukiernicze o słodkim smaku zawierające cukier lub czasami sztuczne słodziki i często aromatyzowane owocami, czekoladą, orzechami, ziołami i przyprawami
+</def>
+<sentence>
+Miał także listy octu, suchej kawy i kawy rozpuszczalnej, słodyczy, mennicy po kolacji, pomarańczowych kropli i kropli cytryny.
+</sentence>
+</translated>
+<synomym>sweet</synomym>
+<def>
+Edible, sweet-tasting confectionerycontaining sugar, or sometimes artificial sweeteners, and often flavored with fruit, chocolate, nuts, herbs and spices
+</def>
+<sentence>
+He also had lists of vinegars, dry coffee and instant coffee, candy, after-dinner mints, orange drops, and lemon drops.
+</sentence>
+<sound>resources/candy.wav</sound>
+<img>resources/candy.jpg</img>
+</entry>
+<entry>
+<id>carrot</id>
+<pfs>Noun</pfs>
+<category>Jedzenie</category>
+<translated>
+<word>Marchewka</word>
+<def>Warzywo jadalne, świetne do soków np. z jabłkiem. </def>
+<sentence>Marchewkowe pole</sentence>
+</translated>
+<synomym>-</synomym>
+<def>vegetable, healthy orange vegetable</def>
+<sentence>Carrot field</sentence>
+<sound>resources/carrot.wav</sound>
+<img>resources/carrot.jpg</img>
+</entry>
+<entry>
+<id>cat</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>kot</word>
+<def>miauczące zwierze</def>
+<sentence>Koty piją mleko</sentence>
+</translated>
+<synomym>-</synomym>
+<def>meowing animal</def>
+<sentence>Cats drink milk</sentence>
+<sound>resources/kot.wav</sound>
+<img>resources/cat.jpg</img>
+</entry>
+<entry>
+<id>cell phone</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>komórka</word>
+<def>
+ręczny mobilny radiotelefon do użytku w obszarze podzielonym na małe sekcje (komórki), z których każdy ma własny nadajnik / odbiornik bliskiego zasięgu
+</def>
+<sentence>
+Goodell powoływał się na zniszczenie przez Brady'ego komórki jako decydującego czynnika w jego decyzji o utrzymaniu zawieszenia Brady'ego.
+</sentence>
+</translated>
+<synomym>mobile phone</synomym>
+<def>
+a hand-held mobile radiotelephone for use in an area divided into small sections (cells), each with its own short-range transmitter/receiver
+</def>
+<sentence>
+Goodell cited Brady's destruction of his cell phone as a critical factor in his decision to uphold Brady's suspension.
+</sentence>
+<sound>resources/cell-phone.wav</sound>
+<img>resources/cell-phone.jpg</img>
+</entry>
+<entry>
+<id>check</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>czek</word>
+<def>
+pisemne polecenie nakazujące bankowi wypłacenie pieniędzy
+</def>
+<sentence>
+... z ich pierwszej dużej trasy koncertowej chłopcy zostali odesłani z powrotem do domów w projektach i otrzymali czek w wysokości 1,87 USD za swoje wysiłki.
+</sentence>
+</translated>
+<synomym>cheque</synomym>
+<def>a written order directing a bank to pay money</def>
+<sentence>
+...from their first major concert tour, the boys were dropped off back at their homes in the projects and were given a check in the amount of $1.87 apiece for their efforts.
+</sentence>
+<sound>resources/check.wav</sound>
+<img>resources/check.jpg</img>
+</entry>
+<entry>
+<id>cheese</id>
+<pfs>noun</pfs>
+<category>Jedzenie</category>
+<translated>
+<word>ser</word>
+<def>żółte z dziurami</def>
+<sentence>Sery są zdrowe</sentence>
+</translated>
+<synomym>-</synomym>
+<def>yellow with holes</def>
+<sentence>The cheeses are healthy</sentence>
+<sound>resources/ser.wav</sound>
+<img>resources/ser.jpg</img>
+</entry>
+<entry>
+<id>cheque</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>czek</word>
+<def>
+pisemne polecenie nakazujące bankowi wypłacenie pieniędzy
+</def>
+<sentence>
+Płatność może być dokonana wyłącznie za pośrednictwem czeku / płatności elektronicznej.
+</sentence>
+</translated>
+<synomym>check</synomym>
+<def>a written order directing a bank to pay money</def>
+<sentence>
+The payment can only be through cheque/electronic payment.
+</sentence>
+<sound>resources/cheque.wav</sound>
+<img>resources/cheque.jpg</img>
+</entry>
+<entry>
+<id>chip</id>
+<pfs>noun</pfs>
+<category>Warzywa</category>
+<translated>
+<word>frytka</word>
+<def>Smażony pasek z ziemniaków</def>
+<sentence>Lubię jeść frytki z majonezem.</sentence>
+</translated>
+<synomym>fry</synomym>
+<def>A fried strip of potato</def>
+<sentence>I like to eat chips with mayo.</sentence>
+<sound>resources/chip.wav</sound>
+<img>resources/chip.jpg</img>
+</entry>
+<entry>
+<id>circumstance</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>okoliczność</word>
+<def>
+ogólny stan rzeczy; połączenie okoliczności w danym czasie
+</def>
+<sentence>
+Ale zamiast wykorzystać okoliczność, Nixon szukał komisji w marynarce wojennej.
+</sentence>
+</translated>
+<synomym>situation</synomym>
+<def>
+the general state of things; the combination of circumstances at a given time
+</def>
+<sentence>
+But instead of exploiting his circumstance, Nixon sought a commission in the Navy.
+</sentence>
+<sound>resources/circumstance.wav</sound>
+<img>resources/circumstance.jpg</img>
+</entry>
+<entry>
+<id>colleague</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>koleżanka</word>
+<def>osoba, z którą jesteś zaznajomiony</def>
+<sentence>
+Kiedy Shaw przybył na plan filmowy, natknął się na swojego przyjaciela Iana McDiarmida, aktora grającego Imperatora.
+</sentence>
+</translated>
+<synomym>friend</synomym>
+<def>a person with whom you are acquainted</def>
+<sentence>
+When Shaw arrived at the set for filming, he ran into his friend Ian McDiarmid, the actor playing the Emperor.
+</sentence>
+<sound>resources/friend.wav</sound>
+<img>resources/friend.jpg</img>
+</entry>
+<entry>
+<id>color</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kolor</word>
+<def>
+wizualny atrybut rzeczy, które wynikają z światła, które emitują lub transmitują lub odzwierciedlają
+</def>
+<sentence>
+Używanie purpury jako koloru Mr. Glassa do zieleni Davida Dunna było także pomysłem Jacksona.
+</sentence>
+</translated>
+<synomym>colour</synomym>
+<def>
+a visual attribute of things that results from the light they emit or transmit or reflect
+</def>
+<sentence>
+Using purple as Mr. Glass' color to David Dunn's green was also Jackson's idea.
+</sentence>
+<sound>resources/color.wav</sound>
+<img>resources/color.jpg</img>
+</entry>
+<entry>
+<id>colour</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kolor</word>
+<def>
+wizualny atrybut rzeczy, które wynikają z światła, które emitują lub transmitują lub odzwierciedlają
+</def>
+<sentence>
+Używanie kolorów jest bardzo ważne i ma korzenie w ukraińskim folklorze.
+</sentence>
+</translated>
+<synomym>color</synomym>
+<def>
+a visual attribute of things that results from the light they emit or transmit or reflect
+</def>
+<sentence>
+Use of colour is very important and has roots in Ukrainian folklore.
+</sentence>
+<sound>resources/colour.wav</sound>
+<img>resources/colour.jpg</img>
+</entry>
+<entry>
+<id>cookie</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>ciastko</word>
+<def>każdy z różnych małych płaskich słodkich ciastek</def>
+<sentence>
+Jej prochy są w słoiku z ciastkami w nowym mieszkaniu Josha.
+</sentence>
+</translated>
+<synomym>biscuit</synomym>
+<def>any of various small flat sweet cakes</def>
+<sentence>Her ashes are in a cookie jar in Josh's new flat.</sentence>
+<sound>resources/cookie.wav</sound>
+<img>resources/cookie.jpg</img>
+</entry>
+<entry>
+<id>cosmos</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kosmos</word>
+<def>wszystko, co istnieje w dowolnym miejscu</def>
+<sentence>
+Starożytni Grecy nie rozróżniali między tym użyciem a ich modelem dla kosmosu.
+</sentence>
+</translated>
+<synomym>universe</synomym>
+<def>everything that exists anywhere</def>
+<sentence>
+The ancient Greeks drew no distinction between this use and their model for the cosmos.
+</sentence>
+<sound>resources/cosmos.wav</sound>
+<img>resources/cosmos.jpg</img>
+</entry>
+<entry>
+<id>courgette</id>
+<pfs>noun</pfs>
+<category>Warzywa</category>
+<translated>
+<word>cukinia</word>
+<def>
+mały warzywo w kształcie ogórka; zazwyczaj ciemnozielone
+</def>
+<sentence>
+Wykonany jest z szerokiej gamy warzyw, od ogórka do cukinii.
+</sentence>
+</translated>
+<synomym>zucchini</synomym>
+<def>
+small cucumber-shaped vegetable marrow; typically dark green
+</def>
+<sentence>
+It is made with a large variety of vegetables, from cucumber to courgette.
+</sentence>
+<sound>resources/courgette.wav</sound>
+<img>resources/courgette.jpg</img>
+</entry>
+<entry>
+<id>deviant</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>dewiant</word>
+<def>szalona osoba</def>
+<sentence>
+Ludzie zaangażowani w te strony często tego nie robią, ponieważ są dewiantami z natury.
+</sentence>
+</translated>
+<synomym>madman</synomym>
+<def>an insane person</def>
+<sentence>
+The people involved in these sites often aren't doing it because they're deviant by nature.
+</sentence>
+<sound>resources/deviant.wav</sound>
+<img>resources/deviant.jpg</img>
+</entry>
+<entry>
+<id>dog</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>pies</word>
+<def>zwierze, które szczeka</def>
+<sentence>Pies to przyjaciel człowieka</sentence>
+</translated>
+<synomym>-</synomym>
+<def>an animal that is barking</def>
+<sentence>The dog is a human friend</sentence>
+<sound>resources/pies.wav</sound>
+<img>resources/pies.jpg</img>
+</entry>
+<entry>
+<id>drama</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>dramat</word>
+<def>Typ filmu lub przedstawienia.</def>
+<sentence>dramat o pięknej i bestii</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Type of film or performance.</def>
+<sentence>drama about the beautiful and the beast</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>drink</id>
+<pfs>verb</pfs>
+<category>-</category>
+<translated>
+<word>pić</word>
+<def>opis czynności</def>
+<sentence>Picie wody jest zdrowe</sentence>
+</translated>
+<synomym>-</synomym>
+<def>description of activities</def>
+<sentence>Drink water is healthy</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>drive</id>
+<pfs>verb</pfs>
+<category>-</category>
+<translated>
+<word>jechać</word>
+<def>opis czynności</def>
+<sentence>Codziennie jeżdżę na rowerze</sentence>
+</translated>
+<synomym>-</synomym>
+<def>description of activities</def>
+<sentence>I ride a bike every day</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>drugstore</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>apteka</word>
+<def>
+sklep detaliczny, w którym sprzedawane są leki i inne artykuły
+</def>
+<sentence>Później dostał stanowisko w aptece w Filadelfii.</sentence>
+</translated>
+<synomym>pharmacy</synomym>
+<def>
+a retail shop where medicine and other articles are sold
+</def>
+<sentence>
+He later got a position at a drugstore in Philadelphia.
+</sentence>
+<sound>resources/drugstore.wav</sound>
+<img>resources/drugstore.jpg</img>
+</entry>
+<entry>
+<id>eggplant</id>
+<pfs>noun</pfs>
+<category>Warzywa</category>
+<translated>
+<word>bakłażan</word>
+<def>
+jajowate warzywo o błyszczącej skórze, zwykle ciemnopurpurowe, ale czasami białe lub żółte
+</def>
+<sentence>Pierwszą nazwą używaną dla pomidorów w Iranie było </sentence>
+</translated>
+<synomym>aubergine</synomym>
+<def>
+egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow
+</def>
+<sentence>The early name used for tomato in Iran was </sentence>
+<sound>resources/eggplant.wav</sound>
+<img>resources/eggplant.jpg</img>
+</entry>
+<entry>
+<id>elephant</id>
+<pfs>Noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>Słoń</word>
+<def>
+Duże i niebezpieczne zwierzę, zobaczysz je w zoo. Ma trąbę.
+</def>
+<sentence>słoń Ci nadepnął na ucho</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Wild Animal from Africa, India</def>
+<sentence> the elephant has stepped on your ear</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>elevator</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>winda</word>
+<def>
+urządzenie podnoszące składające się z platformy lub klatki, która jest podniesiona i opuszczona mechanicznie w pionowym wale, w celu przemieszczania ludzi z jednego piętra na drugi w budynku
+</def>
+<sentence>
+Sebastian wsiada do windy, a za nią Roy, który następnie jedzie windą w dół sam.
+</sentence>
+</translated>
+<synomym>lift</synomym>
+<def>
+lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building
+</def>
+<sentence>
+Sebastian runs for the elevator followed by Roy, who then rides the elevator down alone.
+</sentence>
+<sound>resources/elevator.wav</sound>
+<img>resources/elevator.jpg</img>
+</entry>
+<entry>
+<id>elf</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>elf</word>
+<def>Każda z magicznych ras, typowo leśna</def>
+<sentence>Jak elf tańczyłabym w promieniu księżyca.</sentence>
+</translated>
+<synomym>fairy</synomym>
+<def>
+Any of the magical, typically forest-guarding races
+</def>
+<sentence>Like an elf I would dance in the moonlight.</sentence>
+<sound>resources/elf.wav</sound>
+<img>resources/elf.jpg</img>
+</entry>
+<entry>
+<id>fairy</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>elf</word>
+<def>
+Mityczna istota z magicznymi mocami, znana w wielu rozmiarach i opisach
+</def>
+<sentence>Jak elf tańczyłabym w promieniu księżyca.</sentence>
+</translated>
+<synomym>elf</synomym>
+<def>
+A mythical being with magical powers, known in many sizes and descriptions
+</def>
+<sentence>Like a fairy I would dance in the moonlight.</sentence>
+<sound>resources/fairy.wav</sound>
+<img>resources/fairy.jpg</img>
+</entry>
+<entry>
+<id>fall</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>jesień</word>
+<def>Pora roku, kiedy liście zwykle spadają z drzew</def>
+<sentence>Jesień to moja ulubiona pora roku.</sentence>
+</translated>
+<synomym>automn</synomym>
+<def>
+The time of the year when the leaves typically fall from the trees
+</def>
+<sentence>Fall is my favorite season</sentence>
+<sound>resources/fall.wav</sound>
+<img>resources/fall.jpg</img>
+</entry>
+<entry>
+<id>fast</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>szybki</word>
+<def>znany film z mocnymi autami</def>
+<sentence>Szybcy i wściekli 5</sentence>
+</translated>
+<synomym>-</synomym>
+<def>known movie with powerful cars</def>
+<sentence>Fast and furious 5</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>flashlight</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>latarka</word>
+<def>
+mała przenośna lampa elektryczna zasilana z baterii
+</def>
+<sentence>
+Ivan, żywy jak zawsze, pojawia się, trzymając latarkę i śmiejąc się.
+</sentence>
+</translated>
+<synomym>torch</synomym>
+<def>a small portable battery-powered electric lamp</def>
+<sentence>
+Ivan, alive as ever, appears holding a flashlight and laughs.
+</sentence>
+<sound>resources/flashlight.wav</sound>
+<img>resources/flashlight.jpg</img>
+</entry>
+<entry>
+<id>flat</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>mieszkanie</word>
+<def>zestaw pokoi zwykle na jednym piętrze domu</def>
+<sentence>
+Organizują spotkanie w mieszkaniu O'Briena, w którym zarówno Winston, jak i Julia składają przysięgę wierności Bractwu.
+</sentence>
+</translated>
+<synomym>apartment</synomym>
+<def>a suite of rooms usually on one floor of a house</def>
+<sentence>
+They arrange a meeting at O'Brien's flat where both Winston and Julia swear allegiance to the Brotherhood.
+</sentence>
+<sound>resources/flat.wav</sound>
+<img>resources/flat.jpg</img>
+</entry>
+<entry>
+<id>flower</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kwiat</word>
+<def>Kwiat, zwłaszcza ten wskazujący, że drzewo owocuje</def>
+<sentence>Kupiłem żonie bukiet kwiatów</sentence>
+</translated>
+<synomym>bloom</synomym>
+<def>
+A flower, especially one indicating that a fruit tree is fruiting
+</def>
+<sentence>I bought my wife a bunch of blossoms.</sentence>
+<sound>resources/flower.wav</sound>
+<img>resources/flower.jpg</img>
+</entry>
+<entry>
+<id>football</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>piłka nożna</word>
+<def>
+dowolna z różnych gier rozgrywanych za pomocą piłki (okrągłej lub owalnej), w której dwie drużyny próbują kopnąć lub przenosić lub napędzać piłkę w określonym celu
+</def>
+<sentence>
+Piłka nożna jest popularna w Zachodnim Bengalu, Goa, Tamil Nadu, Kerali i północno-wschodnich stanach.
+</sentence>
+</translated>
+<synomym>soccer</synomym>
+<def>
+any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal
+</def>
+<sentence>
+Football is popular in West Bengal, Goa, Tamil Nadu, Kerala, and the north-eastern states.
+</sentence>
+<sound>resources/football.wav</sound>
+<img>resources/football.jpg</img>
+</entry>
+<entry>
+<id>forget-me-not</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>niezapominajka</word>
+<def>
+Rodzaj roślin kwitnących z rodzaju Myosotis, głównie z małym 5-płatkowym niebieskim kwiatem.
+</def>
+<sentence>
+Znajdujące się tam rośliny to alpejskie słoneczniki i alpejskie kwiaty niezapominajki.
+</sentence>
+</translated>
+<synomym>-</synomym>
+<def>
+A genus of flowering plants of the genus Myosotis, mostly with a small 5-petalled blue flower.
+</def>
+<sentence>
+Plants found there include alpine sunflowers, and alpine forget-me-not flowers.
+</sentence>
+<sound>resources/forget-me-not.wav</sound>
+<img>resources/forget-me-not.jpg</img>
+</entry>
+<entry>
+<id>freedom</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>wolność</word>
+<def>odzyskaliśmy ją w 1918</def>
+<sentence>Wolność nie zna granic</sentence>
+</translated>
+<synomym>-</synomym>
+<def>we recovered it in 1918</def>
+<sentence>Freedom knows no limits</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>friend</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>przyjaciółka</word>
+<def>osoba, z którą jesteś zaznajomiony</def>
+<sentence>
+Kiedy Shaw przybył na plan filmowy, natknął się na swojego przyjaciela Iana McDiarmida, aktora grającego Imperatora.
+</sentence>
+</translated>
+<synomym>colleague</synomym>
+<def>a person with whom you are acquainted</def>
+<sentence>
+When Shaw arrived at the set for filming, he ran into his friend Ian McDiarmid, the actor playing the Emperor.
+</sentence>
+<sound>resources/friend.wav</sound>
+<img>resources/friend.jpg</img>
+</entry>
+<entry>
+<id>frog</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>żaba</word>
+<def>
+każdy członek grupy bezogoniastych płazów tworzących rząd Anura
+</def>
+<sentence>Żaby są zazwyczaj zielone.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>
+any member of a group of tailless amphibians composing the order Anur
+</def>
+<sentence>Frogs are usually green.</sentence>
+<sound>resources/frog.wav</sound>
+<img>resources/frog.jpg</img>
+</entry>
+<entry>
+<id>fry</id>
+<pfs>noun</pfs>
+<category>Warzywa</category>
+<translated>
+<word>frytka</word>
+<def>Smażony pasek z ziemniaków</def>
+<sentence>Lubię jeść frytki z majonezem.</sentence>
+</translated>
+<synomym>chip</synomym>
+<def>A fried strip of potato</def>
+<sentence>I like to eat fries with mayo.</sentence>
+<sound>resources/fry.wav</sound>
+<img>resources/fry.jpg</img>
+</entry>
+<entry>
+<id>galaxy</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>galaktyka</word>
+<def>Formacja gwiezdna w kosmosie.</def>
+<sentence>galaktyka andromedy jest bardzo bardzo daleko</sentence>
+</translated>
+<synomym>-</synomym>
+<def> star formation</def>
+<sentence> the andromeda galaxy is far far away</sentence>
+<sound>resources/galaxy.wav</sound>
+<img>resources/galaxy.jpg</img>
+</entry>
+<entry>
+<id>globetrotter</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>obieżyświat</word>
+<def>Osoba podróżująca lub często podróżująca.</def>
+<sentence>
+Kolejną ofiarą jest bogaty obieżyświat, pan Paynter, którego resztki płonęły we własnym kominku.
+</sentence>
+</translated>
+<synomym>traveler</synomym>
+<def>A person who is travelling or who often travels.</def>
+<sentence>
+Another victim is wealthy globetrotter Mr Paynter whose remains burned in his own fireplace.
+</sentence>
+<sound>resources/globetrotter.wav</sound>
+<img>resources/globetrotter.jpg</img>
+</entry>
+<entry>
+<id>go</id>
+<pfs>verb</pfs>
+<category>-</category>
+<translated>
+<word>iść</word>
+<def>opis stanu</def>
+<sentence>Jutro idę do kina.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>description of the condition</def>
+<sentence>Tomorrow I go to the cinema</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>gray</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>szary</word>
+<def>
+neutralny achromatyczny kolor pomiędzy bielą a czernią
+</def>
+<sentence>
+W strefie przejściowej znajdują się kolumbijskie jelenie, czarne niedźwiedzie, szare lisy, kuguary, bobki i łosi Roosevelta.
+</sentence>
+</translated>
+<synomym>grey</synomym>
+<def>
+a neutral achromatic color midway between white and black
+</def>
+<sentence>
+In the transition zone, there are Colombian black-tailed deer, black bears, gray foxes, cougars, bobcats, and Roosevelt elk.
+</sentence>
+<sound>resources/gray.wav</sound>
+<img>resources/gray.jpg</img>
+</entry>
+<entry>
+<id>grey</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>szary</word>
+<def>
+neutralny achromatyczny kolor pomiędzy bielą a czernią
+</def>
+<sentence>
+To brzmi jak oferowanie darmowych puszek z aerozolem obok szarego betonowego muru.
+</sentence>
+</translated>
+<synomym>gray</synomym>
+<def>
+a neutral achromatic color midway between white and black
+</def>
+<sentence>
+It sounds like offering free spray cans next to a grey concrete wall.
+</sentence>
+<sound>resources/grey.wav</sound>
+<img>resources/grey.jpg</img>
+</entry>
+<entry>
+<id>hare</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>zając</word>
+<def>
+zwierzę roślinożerne z rodziny Leporidae, podobne do królika, ale większe i z dłuższymi uszami
+</def>
+<sentence>Zając ścigał się z żółwiem.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>
+a plant-eating animal of the family Leporidae, similar to a rabbit, but larger and with longer ears
+</def>
+<sentence>A hare raced with a tortoise.</sentence>
+<sound>resources/hare.wav</sound>
+<img>resources/hare.jpg</img>
+</entry>
+<entry>
+<id>hippo</id>
+<pfs>Noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>hipopotam</word>
+<def>Duże i niebezpieczne zwierzę, zobaczysz je w zoo.</def>
+<sentence>Hipopotam to dziki zwierz.</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Wild Animal from Africa.</def>
+<sentence> Hippo is a wild animal.</sentence>
+<sound>resources/hippo.wav</sound>
+<img>-resources/hippo.jpg</img>
+</entry>
+<entry>
+<id>hood</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>pokrywa</word>
+<def>
+pokrycie ochronne składające się z metalowej części, która zakrywa silnik
+</def>
+<sentence>
+Pokazano, że urządzenia sterowane komputerowo w samochodach, takich jak hamulce, silnik, zamki, pokrywa i wyrzutnie ciężarówek, klakson, ogrzewanie i tablica rozdzielcza, są narażone na ataki atakujących, którzy mają dostęp do ...
+</sentence>
+</translated>
+<synomym>bonnet</synomym>
+<def>
+protective covering consisting of a metal part that covers the engine
+</def>
+<sentence>
+Computer-controlled devices in automobiles such as brakes, engine, locks, hood and truck releases, horn, heat, and dashboard have been shown to be vulnerable to attackers who have access to the...
+</sentence>
+<sound>resources/hood.wav</sound>
+<img>resources/hood.jpg</img>
+</entry>
+<entry>
+<id>hungry</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>głodny</word>
+<def>odczuwanie potrzeby lub pragnienie jedzenia</def>
+<sentence>
+Świnia stała się głodna podczas wyścigu, natychmiast zatrzymała się na ucztę, a następnie zasnęła.
+</sentence>
+</translated>
+<synomym>peckish</synomym>
+<def>feeling a need or desire to eat food</def>
+<sentence>
+The Pig got hungry during the race, promptly stopped for a feast and then fell asleep.
+</sentence>
+<sound>resources/hungry.wav</sound>
+<img>resources/hungry.jpg</img>
+</entry>
+<entry>
+<id>indicator</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>migacz</word>
+<def>
+migające światło pojazdu mechanicznego, wskazujące kierunek, w którym pojazd ma się obrócić
+</def>
+<sentence>
+Japoński okręt flagowy odpowiedział światłem migacza, a nie otrzymawszy odpowiedzi, nadal sygnalizował.
+</sentence>
+</translated>
+<synomym>blinker</synomym>
+<def>
+a blinking light on a motor vehicle that indicates the direction in which the vehicle is about to turn
+</def>
+<sentence>
+The Japanese flagship answered with indicator light, and receiving no reply, continued to signal.
+</sentence>
+<sound>resources/indicator.wav</sound>
+<img>resources/indicator.jpg</img>
+</entry>
+<entry>
+<id>jumper</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>sweter</word>
+<def>
+szydełkowana lub dzianinowa część garderoby pokrywająca górną część ciała
+</def>
+<sentence>
+Są również ozdobione ręcznie tkaną czarną i czerwoną spódnicą do kostek, dzianym czarno-czerwonym swetrem, aksamitnym pasem i czarnymi butami w stylu XVIII wieku ze srebrnymi klamrami.
+</sentence>
+</translated>
+<synomym>sweater</synomym>
+<def>
+a crocheted or knitted garment covering the upper part of the body
+</def>
+<sentence>
+They are also adorned with a handwoven black and red ankle-length skirt, knitted black and red jumper, a velvet belt, and black 18th century style shoes with silver buckles.
+</sentence>
+<sound>resources/jumper.wav</sound>
+<img>resources/jumper.jpg</img>
+</entry>
+<entry>
+<id>ladybird</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>biedronka</word>
+<def>
+Dowolny osobnik z rodzinu chrząszczy z rodzaju Coccinellidae, zazwyczaj o okrągłym kształcie i czerwonych lub żółtych plamistych elytrach.
+</def>
+<sentence>Ona boi się biedronek.</sentence>
+</translated>
+<synomym>ladybug</synomym>
+<def>
+Any of the Coccinellidae family of beetles, typically having a round shape and red or yellow spotted elytra.
+</def>
+<sentence>She's afraid of ladybirds.</sentence>
+<sound>resources/ladybird.wav</sound>
+<img>resources/ladybird.jpg</img>
+</entry>
+<entry>
+<id>ladybug</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>biedronka</word>
+<def>
+Każdy chrząszcz z rodziny Coccinellidae, zazwyczaj o okrągłym kształcie i kolorowej skorupie
+</def>
+<sentence>Ona boi się biedronek.</sentence>
+</translated>
+<synomym>ladybird</synomym>
+<def>
+Any beetle of the Coccinellidae family of beetles, typically having a round shape and a colorful shell.
+</def>
+<sentence>She's afraid of ladybugs.</sentence>
+<sound>resources/ladybug.wav</sound>
+<img>resources/ladybug.jpg</img>
+</entry>
+<entry>
+<id>leopard</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>lampart</word>
+<def>
+duże koty afrykańskich i azjatyckich lasów, zwykle o jasnym futrze z czarnymi plamami
+</def>
+<sentence>
+Rdzenne ssaki to lampart, hiena, lis, wilk, zając, oryk i koziorożec.
+</sentence>
+</translated>
+<synomym>panther</synomym>
+<def>
+large feline of African and Asian forests usually having a tawny coat with black spots
+</def>
+<sentence>
+Indigenous mammals include the leopard, hyena, fox, wolf, hare, oryx, and ibex.
+</sentence>
+<sound>resources/leopard.wav</sound>
+<img>resources/leopard.jpg</img>
+</entry>
+<entry>
+<id>lift</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>winda</word>
+<def>
+urządzenie podnoszące składające się z platformy lub klatki, która jest podniesiona i opuszczona mechanicznie w pionowym wale, w celu przemieszczania ludzi z jednego piętra na drugi w budynku
+</def>
+<sentence>
+Korpus Inżynierów zainstalował również windę, aby zabrać gości z bazy na szczyt cokołu.
+</sentence>
+</translated>
+<synomym>elevator</synomym>
+<def>
+lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building
+</def>
+<sentence>
+The Corps of Engineers also installed an lift to take visitors from the base to the top of the pedestal.
+</sentence>
+<sound>resources/lift.wav</sound>
+<img>resources/lift.jpg</img>
+</entry>
+<entry>
+<id>line</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kolejka</word>
+<def>linia ludzi lub pojazdów czekających na coś</def>
+<sentence>
+Podczas panowania jej dziadka Elżbieta była trzecia w kolejce sukcesji na tronie, za swoim wujkiem Edwardem, księciem Walii i jej ojcem, księciem Yorku.
+</sentence>
+</translated>
+<synomym>queue</synomym>
+<def>
+a queue of people or vehicles waiting for something
+</def>
+<sentence>
+During her grandfather's reign, Elizabeth was third in the line of succession to the throne, behind her uncle Edward, Prince of Wales, and her father, the Duke of York.
+</sentence>
+<sound>resources/line.wav</sound>
+<img>resources/line.jpg</img>
+</entry>
+<entry>
+<id>listen</id>
+<pfs>verb</pfs>
+<category>-</category>
+<translated>
+<word>słuchać</word>
+<def>robimy to na wykładach</def>
+<sentence>Słuchanie utrwala wiedzę</sentence>
+</translated>
+<synomym>-</synomym>
+<def>we do it at lectures</def>
+<sentence>Listening strengthens knowledge</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>lorry</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>ciężarówka</word>
+<def>
+duży pojazd przeznaczona do przewozu ciężkich ładunków
+</def>
+<sentence>
+Trelleborg jest najruchliwszym portem promowym w Szwecji pod względem masy przewożonej ciężarówką.
+</sentence>
+</translated>
+<synomym>truck</synomym>
+<def>
+a large vehicle designed to carry heavy loads; usually without sides
+</def>
+<sentence>
+Trelleborg is the busiest ferry port in Sweden in terms of weight transported by lorry.
+</sentence>
+<sound>resources/lorry.wav</sound>
+<img>resources/lorry.jpg</img>
+</entry>
+<entry>
+<id>love</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>miłość</word>
+<def>stan umysłu</def>
+<sentence>Miłość do ojczyzny jest czymś wyjątkowym</sentence>
+</translated>
+<synomym>-</synomym>
+<def>state of mind</def>
+<sentence>Love for the motherland is something special</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>madman</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>szaleniec</word>
+<def>szalona osoba</def>
+<sentence>
+Albo ten człowiek był i jest Synem Bożym, albo szaleńcem albo czymś gorszym.
+</sentence>
+</translated>
+<synomym>deviant</synomym>
+<def>an insane person</def>
+<sentence>
+Either this man was, and is, the Son of God, or else a madman or something worse.
+</sentence>
+<sound>resources/madman.wav</sound>
+<img>resources/madman.jpg</img>
+</entry>
+<entry>
+<id>map</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>mapa</word>
+<def>używamy podczas drogi</def>
+<sentence>Mapa jest noezbędna w dalekiej podróży</sentence>
+</translated>
+<synomym>-</synomym>
+<def>we use during the journey</def>
+<sentence>The map is essential for a long journey</sentence>
+<sound>resources/mapa.wav</sound>
+<img>resources/map.jpg</img>
+</entry>
+<entry>
+<id>match</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>mecz</word>
+<def>gramy w go zespołowo</def>
+<sentence>Wygramy wszystkie mecze</sentence>
+</translated>
+<synomym>-</synomym>
+<def>we play it as a team</def>
+<sentence>We win all matches</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>mermaid</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>syrena</word>
+<def>
+Mitologiczny stwór z kobiecą głową i górną częścią ciała oraz ogonem ryby.
+</def>
+<sentence>
+Ostatnim wkładem do projektu Essomarine była syrena Essie Neptune i jej wieloryb w 1941 roku.
+</sentence>
+</translated>
+<synomym>siren</synomym>
+<def>
+A mythological creature with a woman's head and upper body, and a tail of a fish.
+</def>
+<sentence>
+The final contribution to the Essomarine project was the mermaidEssie Neptune and her pet whale in 1941.
+</sentence>
+<sound>resources/mermaid.wav</sound>
+<img>resources/mermaid.jpg</img>
+</entry>
+<entry>
+<id>mobile phone</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>telefon komórkowy</word>
+<def>
+ręczny mobilny radiotelefon do użytku w obszarze podzielonym na małe sekcje (komórki), z których każdy ma własny nadajnik / odbiornik bliskiego zasięgu
+</def>
+<sentence>91% Amerykanów ma również telefon komórkowy.</sentence>
+</translated>
+<synomym>cell phone</synomym>
+<def>
+a hand-held mobile radiotelephone for use in an area divided into small sections (cells), each with its own short-range transmitter/receiver
+</def>
+<sentence>91% of Americans also own a mobile phone .</sentence>
+<sound>resources/mobile-phone.wav</sound>
+<img>resources/mobile-phone.jpg</img>
+</entry>
+<entry>
+<id>mouse</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>myszka</word>
+<def>używamy do sterowania komputerem</def>
+<sentence>Myszka jest wynalazkiem</sentence>
+</translated>
+<synomym>-</synomym>
+<def>we use to control the computer</def>
+<sentence>The mouse is an invention</sentence>
+<sound>resources/mysz.wav</sound>
+<img>-</img>
+</entry>
+<entry>
+<id>notebook</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>zeszyt</word>
+<def>można w nim pisać</def>
+<sentence>Zeszyt jest obowiązkowy na lekcjach</sentence>
+</translated>
+<synomym>-</synomym>
+<def>you can write in it</def>
+<sentence>The notebook is obligatory during lessons</sentence>
+<sound/>
+<img>resources/zeszyt.jpg</img>
+</entry>
+<entry>
+<id>Painting</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>Obraz</word>
+<def>Take cuś co ktuś namalował.</def>
+<sentence>kto namalował ten obraz?</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Piece of art made by human.</def>
+<sentence>Who painted this painting?</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>panther</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>pantera</word>
+<def>duży dziki amerykański kot przypominająca lwa</def>
+<sentence>
+Amerykański aligator, amerykański krokodyl, florida pantera i manat można znaleźć w Parku Narodowym Everglades.
+</sentence>
+</translated>
+<synomym>leopard</synomym>
+<def>large American feline resembling a lion</def>
+<sentence>
+The American alligator, American crocodile, Florida panther, and manatee can be found in the Everglades National Park.
+</sentence>
+<sound>resources/panther.wav</sound>
+<img>resources/panther.jpg</img>
+</entry>
+<entry>
+<id>peckish</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>głodny</word>
+<def>odczuwanie potrzeby lub pragnienie jedzenia</def>
+<sentence>Aż głodny zwierzak potrzebuje świeżej dostawy.</sentence>
+</translated>
+<synomym>hungry</synomym>
+<def>feeling a need or desire to eat food</def>
+<sentence>Until the peckish pet needs a fresh supply.</sentence>
+<sound>resources/peckish.wav</sound>
+<img>resources/peckish.jpg</img>
+</entry>
+<entry>
+<id>pharmacy</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>apteka</word>
+<def>
+sklep detaliczny, w którym sprzedawane są leki i inne artykuły
+</def>
+<sentence>
+Jego ojciec, Donald, był stoczniowcem, a jego matka, Geraldine, pracowała w aptece.
+</sentence>
+</translated>
+<synomym>drugstore</synomym>
+<def>
+a retail shop where medicine and other articles are sold
+</def>
+<sentence>
+His father, Donald, was a shipyard worker, and his mother, Geraldine, worked at a pharmacy.
+</sentence>
+<sound>resources/pharmacy.wav</sound>
+<img>resources/pharmacy.jpg</img>
+</entry>
+<entry>
+<id>ping pong</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>tenis stołowy</word>
+<def>
+Przykład odbijania czegoś lub kogoś w tę i z powrotem.
+</def>
+<sentence>
+W promocji krzyżowej Godzilla pojawiła się w reklamie bez skazy dla batonika Snickers, grając w tenisa stołowego i nartach wodnych.
+</sentence>
+</translated>
+<synomym>table tennis</synomym>
+<def>
+An instance of figuratively bouncing something or someone back and forth.
+</def>
+<sentence>
+In cross promotion, Godzilla appeared in a light-hearted commercial for the Snickers chocolate bar, playing ping pong and water skiing.
+</sentence>
+<sound>resources/ping-pong.wav</sound>
+<img>resources/ping-pong.jpg</img>
+</entry>
+<entry>
+<id>potato</id>
+<pfs> Noun </pfs>
+<category>Jedzenie</category>
+<translated>
+<word>ziemniak</word>
+<def>Warzywo jadalne, można z niego zrobić frytki.</def>
+<sentence>Ziemniakiem gardzisz?</sentence>
+</translated>
+<synomym>-</synomym>
+<def>vegetable, healthy , cheap, great for you</def>
+<sentence> You despise a potato?</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>pretty</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>ładny</word>
+<def>miłe dla oka lub uszu</def>
+<sentence>
+To było ładne miejsce, z winoroślą rosnącą gęsto ponad szerokim frontowym gankiem.
+</sentence>
+</translated>
+<synomym>beautiful</synomym>
+<def>pleasing by delicacy or grace; not imposing</def>
+<sentence>
+It was a pretty place, with vines growing thickly over the broad front porch.
+</sentence>
+<sound>resources/pretty.wav</sound>
+<img>resources/pretty.jpg</img>
+</entry>
+<entry>
+<id>program</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>program</word>
+<def>
+szereg kroków do wykonania lub cele do zrealizowania
+</def>
+<sentence>
+Rozwiązaniem opóźnień był rozbudowany program budowy nowych frachtowców.
+</sentence>
+</translated>
+<synomym>programme</synomym>
+<def>
+a series of steps to be carried out or goals to be accomplished
+</def>
+<sentence>
+The solution to the delays was an extensive program of building new freighters.
+</sentence>
+<sound>resources/program.wav</sound>
+<img>resources/program.jpg</img>
+</entry>
+<entry>
+<id>programme</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>program</word>
+<def>
+szereg kroków do wykonania lub cele do zrealizowania
+</def>
+<sentence>
+Uruchomił program, który zastąpiłby energię węglową mocą oleju.
+</sentence>
+</translated>
+<synomym>program</synomym>
+<def>
+a series of steps to be carried out or goals to be accomplished
+</def>
+<sentence>
+He launched a programme to replace coal power with oil power.
+</sentence>
+<sound>resources/programme.wav</sound>
+<img>resources/programme.jpg</img>
+</entry>
+<entry>
+<id>queue</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kolejka</word>
+<def>linia ludzi lub pojazdów czekających na coś</def>
+<sentence>
+Można go również uruchomić po ukończeniu innych kompilacji w kolejce.
+</sentence>
+</translated>
+<synomym>line</synomym>
+<def>a line of people or vehicles waiting for something</def>
+<sentence>
+It can also be triggered after the other builds in the queue have completed.
+</sentence>
+<sound>resources/queue.wav</sound>
+<img>resources/queue.jpg</img>
+</entry>
+<entry>
+<id>read</id>
+<pfs>verb</pfs>
+<category>-</category>
+<translated>
+<word>czytać</word>
+<def>czynność ta pozwala pozyskiwać wiedze</def>
+<sentence>Czytanie daje wolność</sentence>
+</translated>
+<synomym>-</synomym>
+<def>this activity allows you to acquire knowledge</def>
+<sentence>Reading gives freedom</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>rounders</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>baseball</word>
+<def>
+gra w piłkę z kijem i piłką pomiędzy dwiema drużynami złożonymi z 9 graczy; zespoły zmieniają się w ataku, próbując zdobyć wynik
+</def>
+<sentence>
+Innym sportem wynalezionym w Wielkiej Brytanii był baseball.
+</sentence>
+</translated>
+<synomym>baseball</synomym>
+<def>
+a ball game played with a bat and ball between two teams of 9 players; teams take turns at bat trying to score run
+</def>
+<sentence>Another sport invented in the UK was rounders.</sentence>
+<sound>resources/rounders.wav</sound>
+<img>resources/rounders.jpg</img>
+</entry>
+<entry>
+<id>sausage</id>
+<pfs>noun</pfs>
+<category>Jedzenie</category>
+<translated>
+<word>kiełbasa</word>
+<def>typ mięsa</def>
+<sentence>Kiełbasa jest dobra na grilla</sentence>
+</translated>
+<synomym>-</synomym>
+<def>type od meat</def>
+<sentence>The sausage is good for barbecue</sentence>
+<sound/>
+<img>resources/kiełba.jpg</img>
+</entry>
+<entry>
+<id>shoe</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>but</word>
+<def>coś, co zakładasz na nogi</def>
+<sentence>Głupi jak but</sentence>
+</translated>
+<synomym>-</synomym>
+<def>it's something you put on your feet</def>
+<sentence>stupid as a shoe</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>siren</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>syrena</word>
+<def>
+Jedna z grupy nimf, która zwabiła marynarzy na śmierć na skałach.
+</def>
+<sentence>W późniejszym folklorze sukub miał formę syreny.</sentence>
+</translated>
+<synomym>mermaid</synomym>
+<def>
+One of a group of nymphs who luredmariners to their death on the rocks.
+</def>
+<sentence>
+In later folklore, a succubus took the form of a siren.
+</sentence>
+<sound>resources/siren.wav</sound>
+<img>resources/siren.jpg</img>
+</entry>
+<entry>
+<id>situation</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>sytuacja</word>
+<def>
+ogólny stan rzeczy; połączenie okoliczności w danym czasie
+</def>
+<sentence>Jednak sytuacja jest odwrotna niż w Japonii.</sentence>
+</translated>
+<synomym>circumstance</synomym>
+<def>
+the general state of things; the combination of circumstances at a given time
+</def>
+<sentence>However, the situation is the reverse of Japan's.</sentence>
+<sound>resources/situation.wav</sound>
+<img>resources/situation.jpg</img>
+</entry>
+<entry>
+<id>slow</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>wolny</word>
+<def>robi ktoś coś jak ślimak</def>
+<sentence>Wolna jazda nie zawsze jest bezpieczna</sentence>
+</translated>
+<synomym>-</synomym>
+<def>someone is doing something like a snail</def>
+<sentence>Slow driving is not always safe</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>small</id>
+<pfs>adjective</pfs>
+<category>-</category>
+<translated>
+<word>mały</word>
+<def>inaczej nieduży</def>
+<sentence>Małe auto jest zwrotne</sentence>
+</translated>
+<synomym>-</synomym>
+<def>another to not big</def>
+<sentence>A small car is returnable</sentence>
+<sound/>
+<img>-</img>
+</entry>
+<entry>
+<id>smartphone</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>telefon</word>
+<def>urządzenie do dzwonienia</def>
+<sentence>Telefon jest niezbędny do dzwonienia</sentence>
+</translated>
+<synomym>-</synomym>
+<def>device for calling</def>
+<sentence>The telephone is necessary for calling</sentence>
+<sound/>
+<img>resources/fone.jpg</img>
+</entry>
+<entry>
+<id>snail</id>
+<pfs>noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>ślimak</word>
+<def>bardzo wolne małe zwierze</def>
+<sentence>Ślimaki jedzą Francuzi</sentence>
+</translated>
+<synomym>-</synomym>
+<def>very free small animal</def>
+<sentence>Snails are eating French</sentence>
+<sound/>
+<img>resources/ślimak.jpg</img>
+</entry>
+<entry>
+<id>sneakers</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>trampki</word>
+<def>brezentowy but z elastyczną gumową podeszwą</def>
+<sentence>
+Gracze noszą wysokie trampki, które zapewniają dodatkowe wsparcie kostki.
+</sentence>
+</translated>
+<synomym>trainers</synomym>
+<def>a canvas shoe with a pliable rubber sole</def>
+<sentence>
+Players wear high-top sneakers that provide extra ankle support.
+</sentence>
+<sound>resources/sneakers.wav</sound>
+<img>resources/sneakers.jpg</img>
+</entry>
+<entry>
+<id>soccer</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>piłka nożna</word>
+<def>
+dowolna z różnych gier rozgrywanych za pomocą piłki (okrągłej lub owalnej), w której dwie drużyny próbują kopnąć lub przenosić lub napędzać piłkę w określonym celu
+</def>
+<sentence>
+Najbardziej popularne sporty w RPA to piłka nożna, rugby i krykiet.
+</sentence>
+</translated>
+<synomym>football</synomym>
+<def>
+any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal
+</def>
+<sentence>
+South Africa's most popular sports are soccer, rugby and cricket.
+</sentence>
+<sound>resources/soccer.wav</sound>
+<img>resources/soccer.jpg</img>
+</entry>
+<entry>
+<id>story</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>opowieść</word>
+<def>
+kawałek fikcji, który opowiada łańcuch powiązanych wydarzeń
+</def>
+<sentence>
+Napisali go Ramis i Danny Rubin, na podstawie opowieści Rubina.
+</sentence>
+</translated>
+<synomym>tale</synomym>
+<def>
+a piece of fiction that narrates a chain of related events
+</def>
+<sentence>
+It was written by Ramis and Danny Rubin, based on a story by Rubin.
+</sentence>
+<sound>resources/story.wav</sound>
+<img>resources/story.jpg</img>
+</entry>
+<entry>
+<id>strawberry</id>
+<pfs>noun</pfs>
+<category>Owoce</category>
+<translated>
+<word>truskawka</word>
+<def>jadalny czerwony owoc z zielonym listkiem</def>
+<sentence>Truskawki są pyszne</sentence>
+</translated>
+<synomym>-</synomym>
+<def>edible red fruit with a green leaf</def>
+<sentence>Strawberries are delicious</sentence>
+<sound>resources/truskawka.wav</sound>
+<img>resources/truskawka.jpg</img>
+</entry>
+<entry>
+<id>subway</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>metro</word>
+<def>elektryczna kolej podziemna</def>
+<sentence>
+Ich zdjęcia są wszędzie, na budkach telefonicznych, lampkach ulicznych, ścianach stacji metra.
+</sentence>
+</translated>
+<synomym>underground</synomym>
+<def>electric underground railway</def>
+<sentence>
+Their pictures are everywhere, on phone booths, street lights, walls of subway stations.
+</sentence>
+<sound>resources/subway.wav</sound>
+<img>resources/subway.jpg</img>
+</entry>
+<entry>
+<id>succinite</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>jantar</word>
+<def>
+twarde żółtawe do brązowawo przezroczystej żywicy kopalnej; używane do biżuterii
+</def>
+<sentence>
+Bałtowie utworzyli szlaki handlowe do Rzymu i Bizancjum, handlując jantarem lokalnym za metale szlachetne.
+</sentence>
+</translated>
+<synomym>amber</synomym>
+<def>
+a hard yellowish to brownish translucent fossil resin; used for jewelry
+</def>
+<sentence>
+The Balts established trade routes to Rome and Byzantium, trading local succinite for precious metals.
+</sentence>
+<sound>resources/amber.wav</sound>
+<img>resources/amber.jpg</img>
+</entry>
+<entry>
+<id>suspenders</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>szelki</word>
+<def>elastyczne paski podtrzymujące spodnie</def>
+<sentence/>
+</translated>
+<synomym>braces</synomym>
+<def>elastic straps that hold trousers up</def>
+<sentence/>
+<sound>resources/suspenders.wav</sound>
+<img>resources/suspenders.jpg</img>
+</entry>
+<entry>
+<id>sweater</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>sweter</word>
+<def>
+szydełkowana lub dzianinowa część garderoby pokrywająca górną część ciała
+</def>
+<sentence>Sweter domu ma przeważnie kolor czerwony.</sentence>
+</translated>
+<synomym>jumper</synomym>
+<def>
+a crocheted or knitted garment covering the upper part of the body
+</def>
+<sentence>The home sweater is predominantly red in colour.</sentence>
+<sound>resources/sweater.wav</sound>
+<img>resources/sweater.jpg</img>
+</entry>
+<entry>
+<id>sweet</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>słodycz</word>
+<def>
+Jadalne wyroby cukiernicze o słodkim smaku zawierające cukier lub czasami sztuczne słodziki i często aromatyzowane owocami, czekoladą, orzechami, ziołami i przyprawami
+</def>
+<sentence>Tradycyjne japońskie słodycze znane są jako </sentence>
+</translated>
+<synomym>candy</synomym>
+<def>
+Edible, sweet-tasting confectionerycontaining sugar, or sometimes artificial sweeteners, and often flavored with fruit, chocolate, nuts, herbs and spices
+</def>
+<sentence>Traditional Japanese sweets are known as </sentence>
+<sound>resources/sweet.wav</sound>
+<img>resources/sweet.jpg</img>
+</entry>
+<entry>
+<id>table tennis</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>tenis stołowy</word>
+<def>
+Gra lub sport (podobny do tenisa) polegający na uderzeniu lekką plastikową piłką po stole
+</def>
+<sentence>
+Na przykład: Popularne sporty to piłka nożna, koszykówka, krykiet, pływanie, żeglarstwo, tenis stołowy i badminton.
+</sentence>
+</translated>
+<synomym>ping pong</synomym>
+<def>
+A game or sport (similar to tennis) that involves the hitting of a light plastic ball across a table
+</def>
+<sentence>
+For example: Popular sports include football, basketball, cricket, swimming, sailing, table tennis and badminton.
+</sentence>
+<sound>resources/table-tennis.wav</sound>
+<img>resources/table-tennis.jpg</img>
+</entry>
+<entry>
+<id>tale</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>gawęda</word>
+<def>
+kawałek fikcji, który opowiada łańcuch powiązanych wydarzeń
+</def>
+<sentence>Jednak ta gawęda jest wątpliwa.</sentence>
+</translated>
+<synomym>story</synomym>
+<def>
+a piece of fiction that narrates a chain of related events
+</def>
+<sentence>However, this tale is doubtful.</sentence>
+<sound>resources/tale.wav</sound>
+<img>resources/tale.jpg</img>
+</entry>
+<entry>
+<id>telly</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>telewizja</word>
+<def>
+nadające zjawiska wizualnye obiekty nieruchome lub ruchome
+</def>
+<sentence>
+Nie odpowiada na telefon, nie rozmawia ze mną, widziałem go w telewizji w Glastonbury.
+</sentence>
+</translated>
+<synomym>tv</synomym>
+<def>
+broadcasting visual images of stationary or moving objects
+</def>
+<sentence>
+He's not answering his phone, he's not talking to me, I saw him on the telly at Glastonbury'.
+</sentence>
+<sound>resources/telly.wav</sound>
+<img>resources/telly.jpg</img>
+</entry>
+<entry>
+<id>theater</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>teatr</word>
+<def>
+budynek, w którym można zaprezentować przedstawienia teatralne lub pokazy filmowe
+</def>
+<sentence>Publiczność klaskała, gdy weszli do teatru.</sentence>
+</translated>
+<synomym>theatre</synomym>
+<def>
+a building where theatrical performances or motion-picture shows can be presented
+</def>
+<sentence>
+The audience applauded as they entered the theater.
+</sentence>
+<sound>resources/theater.wav</sound>
+<img>resources/theater.jpg</img>
+</entry>
+<entry>
+<id>theatre</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>teatr</word>
+<def>
+budynek, w którym można zaprezentować przedstawienia teatralne lub pokazy filmowe
+</def>
+<sentence>
+Teatr w Indiach łączy muzykę, taniec i improwizowany lub pisany dialog.
+</sentence>
+</translated>
+<synomym>theater</synomym>
+<def>
+a building where theatrical performances or motion-picture shows can be presented
+</def>
+<sentence>
+Theatre in India melds music, dance, and improvised or written dialogue.
+</sentence>
+<sound>resources/theatre.wav</sound>
+<img>resources/theatre.jpg</img>
+</entry>
+<entry>
+<id>tire</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>opona</word>
+<def>obręcz, która zakrywa koło</def>
+<sentence>Aby to zrobić, Zodiac napisał: </sentence>
+</translated>
+<synomym>gdy one się odbijają."</synomym>
+<def>tyre</def>
+<sentence>hoop that covers a wheel</sentence>
+<sound>To do this, Zodiac wrote, </sound>
+<img>resources/tire.wav</img>
+</entry>
+<entry>
+<id>torch</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>latarka</word>
+<def>
+mała przenośna lampa elektryczna zasilana z baterii
+</def>
+<sentence>Milam był uzbrojony w pistolet i latarkę.</sentence>
+</translated>
+<synomym>flashlight</synomym>
+<def>a small portable battery-powered electric lamp</def>
+<sentence>Milam was armed with a pistol and a torch.</sentence>
+<sound>resources/torch.wav</sound>
+<img>resources/torch.jpg</img>
+</entry>
+<entry>
+<id>trainers</id>
+<pfs>noun</pfs>
+<category>Sport</category>
+<translated>
+<word>trampki</word>
+<def>brezentowy but z elastyczną gumową podeszwą</def>
+<sentence>
+Miał na sobie czarną żakietową kurtkę, jasną koszulkę, dżinsy z paskiem, trampki i okulary przeciwsłoneczne o grubych ramkach.
+</sentence>
+</translated>
+<synomym>sneakers</synomym>
+<def>a canvas shoe with a pliable rubber sole</def>
+<sentence>
+He was wearing a black pleather jacket, a light-coloured T-shirt, jeans with a belt, trainers, and thick-framed sunglasses.
+</sentence>
+<sound>resources/trainers.wav</sound>
+<img>resources/trainers.jpg</img>
+</entry>
+<entry>
+<id>translator</id>
+<pfs>Noun</pfs>
+<category>-</category>
+<translated>
+<word>Translator</word>
+<def>Program do tłumaczenia niemądrych sentencji...</def>
+<sentence>impreza translatorowa</sentence>
+</translated>
+<synomym>-</synomym>
+<def>
+Program that translate your sentences to other language
+</def>
+<sentence>translator party</sentence>
+<sound/>
+<img/>
+</entry>
+<entry>
+<id>traveler</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>podróżnik</word>
+<def>Osoba podróżująca lub często podróżująca.</def>
+<sentence>
+Niemniej jednak nawet najszybszy podróżnik nie będzie w stanie wchodzić w interakcje z całą przestrzenią.
+</sentence>
+</translated>
+<synomym>globetrotter</synomym>
+<def>A person who is travelling or who often travels.</def>
+<sentence>
+Nevertheless, even the most rapid traveler will not be able to interact with all of space.
+</sentence>
+<sound>resources/traveler.wav</sound>
+<img>resources/traveler.jpg</img>
+</entry>
+<entry>
+<id>truck</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>ciężarówka</word>
+<def>
+duży pojazd przeznaczona do przewozu ciężkich ładunków
+</def>
+<sentence>
+W kwietniu Presley rozpoczął pracę dla firmy Crown Electric jako kierowca ciężarówki.
+</sentence>
+</translated>
+<synomym>lorry</synomym>
+<def>
+a large vehicle designed to carry heavy loads; usually without sides
+</def>
+<sentence>
+In April, Presley began working for the Crown Electric company as a truck driver.
+</sentence>
+<sound>resources/truck.wav</sound>
+<img>resources/truck.jpg</img>
+</entry>
+<entry>
+<id>trunk</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>bagażnik</word>
+<def>
+przedział w samochodzie, który przenosi bagaż lub zakupy lub narzędzia
+</def>
+<sentence>
+Przewożą ciało w bagażniku samochodu Henry'ego i zakopują je w północnej części stanu.
+</sentence>
+</translated>
+<synomym>boot</synomym>
+<def>
+compartment in an automobile that carries luggage or shopping or tools
+</def>
+<sentence>
+They transport the body in the trunk of Henry's car and bury it upstate.
+</sentence>
+<sound>resources/trunk.wav</sound>
+<img>resources/trunk.jpg</img>
+</entry>
+<entry>
+<id>truth</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>prawda</word>
+<def>zgodne z faktem lub rzeczywistością</def>
+<sentence>
+Na pierwszy rzut oka to całkiem zwyczajny student, ale w rzeczywistości był telepatą.
+</sentence>
+</translated>
+<synomym>-</synomym>
+<def>being in accord with fact or reality</def>
+<sentence>
+At first glance, a quite ordinary student, but in truth, he was an esper.
+</sentence>
+<sound>resources/truth.wav</sound>
+<img>-</img>
+</entry>
+<entry>
+<id>turtle</id>
+<pfs>Noun</pfs>
+<category>Zwierzęta</category>
+<translated>
+<word>Żółw</word>
+<def>Zwierzak ze skorupą.</def>
+<sentence>Wolny jak żółw</sentence>
+</translated>
+<synomym>-</synomym>
+<def>Wild Animal with shell on his back</def>
+<sentence>slow as a turtle</sentence>
+<sound>resources/turtle.wav</sound>
+<img>resources/turtle.jpg</img>
+</entry>
+<entry>
+<id>tv</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>telewizja</word>
+<def>
+nadające zjawiska wizualnye obiekty nieruchome lub ruchome
+</def>
+<sentence>
+W krótkim czasie Peete znalazł role w serialu telewizyjnym i dwóch filmach.
+</sentence>
+</translated>
+<synomym>telly</synomym>
+<def>
+broadcasting visual images of stationary or moving objects
+</def>
+<sentence>
+Within a short time, Peete found roles on a tv series and in two films.
+</sentence>
+<sound>resources/tv.wav</sound>
+<img>resources/tv.jpg</img>
+</entry>
+<entry>
+<id>tyre</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>opona</word>
+<def>obręcz, która zakrywa koło</def>
+<sentence>
+Czujniki kół obejmują przeciążenie hamulca, temperaturę hamulca i deflację opon.
+</sentence>
+</translated>
+<synomym>tire</synomym>
+<def>hoop that covers a wheel</def>
+<sentence>
+Wheel sensors include brake overload, brake temperature, and tyredeflation.
+</sentence>
+<sound>resources/tyre.wav</sound>
+<img>resources/tyre.jpg</img>
+</entry>
+<entry>
+<id>underground</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>metro</word>
+<def>elektryczna kolej podziemna</def>
+<sentence>London Underground to najstarsze metro na świecie.</sentence>
+</translated>
+<synomym>subway</synomym>
+<def>electric underground railway</def>
+<sentence>
+The London Underground is the oldest underground railway network in the world.
+</sentence>
+<sound>resources/underground.wav</sound>
+<img>resources/underground.jpg</img>
+</entry>
+<entry>
+<id>universe</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>wszechświat</word>
+<def>wszystko, co istnieje w dowolnym miejscu</def>
+<sentence>Wprowadził szare tony w czarno-biały wszechświat.</sentence>
+</translated>
+<synomym>cosmos</synomym>
+<def>everything that exists anywhere</def>
+<sentence>
+He introduced gray tones into a black-and-white universe.
+</sentence>
+<sound>resources/universe.wav</sound>
+<img>resources/universe.jpg</img>
+</entry>
+<entry>
+<id>vest</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kamizelka</word>
+<def>męski ubiór bez rękawów noszony pod płaszczem</def>
+<sentence>
+Banksy przedstawił anioła w kuloodpornej kamizelce z czaszką.
+</sentence>
+</translated>
+<synomym>waistcoat</synomym>
+<def>a man's sleeveless garment worn underneath a coat</def>
+<sentence>
+Banksy depicted an angel wearing a bullet-proof vest holding a skull.
+</sentence>
+<sound>resources/vest.wav</sound>
+<img>resources/vest.jpg</img>
+</entry>
+<entry>
+<id>waistcoat</id>
+<pfs>noun</pfs>
+<category>-</category>
+<translated>
+<word>kamizelka</word>
+<def>męski ubiór bez rękawów noszony pod płaszczem</def>
+<sentence>
+To było noszone z białą kamizelką i bryczesami i czarnymi butami.
+</sentence>
+</translated>
+<synomym>vest</synomym>
+<def>a man's sleeveless garment worn underneath a coat</def>
+<sentence>
+This was worn with a white waistcoat and breeches and black shoes.
+</sentence>
+<sound>resources/waistcoat.wav</sound>
+<img>resources/waistcoat.jpg</img>
+</entry>
+<entry>
+<id>windscreen</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>przednia szyba</word>
+<def>
+przezroczysty ekran (od szkła) w celu ochrony pasażerów pojazdu
+</def>
+<sentence>
+Na przedniej szybie i kabinie ciężarówki widać było liczne dziury po kulach.
+</sentence>
+</translated>
+<synomym>windshield</synomym>
+<def>
+transparent screen (as of glass) to protect occupants of a vehicle
+</def>
+<sentence>
+Multiple bullet holes were seen in the windscreen and cab of the truck.
+</sentence>
+<sound>resources/windscreen.wav</sound>
+<img>resources/windscreen.jpg</img>
+</entry>
+<entry>
+<id>windshield</id>
+<pfs>noun</pfs>
+<category>Technologia</category>
+<translated>
+<word>przednia szyba</word>
+<def>
+przezroczysty ekran (od szkła) w celu ochrony pasażerów pojazdu
+</def>
+<sentence>
+Jego samochód został trafiony w dach i przednią szybę.
+</sentence>
+</translated>
+<synomym>windscreen</synomym>
+<def>
+transparent screen (as of glass) to protect occupants of a vehicle
+</def>
+<sentence>His car was hit in the roof and windshield.</sentence>
+<sound>resources/windshield.wav</sound>
+<img>resources/windshield.jpg</img>
+</entry>
+<entry>
+<id>zucchini</id>
+<pfs>noun</pfs>
+<category>Warzywa</category>
+<translated>
+<word>cukinia</word>
+<def>
+mały warzywo w kształcie ogórka; zazwyczaj ciemnozielone
+</def>
+<sentence/>
+</translated>
+<synomym>courgette</synomym>
+<def>
+small cucumber-shaped vegetable marrow; typically dark green
+</def>
+<sentence/>
+<sound>resources/zucchini.wav</sound>
+<img>resources/zucchini.jpg</img>
+</entry>
   </entries>
 </dictionary>

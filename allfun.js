@@ -290,7 +290,7 @@ function displayCD(i) {
         x[i].getElementsByTagName("pfs")[0].childNodes[0].nodeValue;
     document.getElementById("slowo2").innerHTML = //tłumaczenie słowa
         x[i].getElementsByTagName("word")[0].childNodes[0].nodeValue;
-    relative = x[i].getElementsByTagName("synomym")[0].childNodes[0].nodeValue; //synonim, literówka
+    relative = x[i].getElementsByTagName("synonym")[0].childNodes[0].nodeValue; //synonim, literówka
     if (!nextClick.called && !prevClick.called) { //kontrola przycików poprzednie, następne hasło
         lista[cnt + 1] = i;
         cnt++;
@@ -310,7 +310,7 @@ function displayCD(i) {
     loadimg();
     document.getElementById("related").innerHTML = //w related znajdują sie zdania z zastosowaniem danego słowa - w języku jednym i drugim
         "<p id='sentence'></p><p id='sentence2'></p>" +
-        "<p> <span id='synomym' onclick='displayCD(" + findRelative(relative) + ")'>" + relative + "</span></p>"
+        "<p> <span id='synonym' onclick='displayCD(" + findRelative(relative) + ")'>" + relative + "</span></p>"
     document.getElementById("def").innerHTML =
         x[i].getElementsByTagName("def")[0].childNodes[0].nodeValue;
     document.getElementById("sentence").innerHTML =

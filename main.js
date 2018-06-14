@@ -7,7 +7,7 @@ const { app, BrowserWindow, Menu, ipcMain, shell } = electron;
 let mainWindow;
 let lnWindow;
 
-process.env.NODE_env = 'production';
+//process.env.NODE_env = 'production';
 
 var check = false;
 
